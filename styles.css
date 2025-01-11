@@ -235,3 +235,11 @@ input::placeholder {
     border: none;
     margin-top: 25px;
   }
+  .takabtn:hover{
+    background-color: orange;
+    color: white;
+  }
+  .takabtn2:hover{
+    background-color: orange;
+    color: white;
+  }
