@@ -136,8 +136,9 @@ body{
     background-color: #FFC239;
     width: 122px;
     height: 42px;
-   
+    border-radius: 10px;
     margin-top: 20px;
+    border: none;
 }
 .quotessec{
     background-image: url("./assets/quote-bg.png") ;
@@ -185,3 +186,56 @@ body{
 .satelite2text{
     margin-right: 40px;
 }
+.takabtn{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+    border: none;
+    background-color: white;
+    width: 280px;
+    height: 148px;
+}
+.takabtn2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+    border: none;
+    background-color: #C6E4D6;
+    width: 280px;
+    height: 148px;
+}
+.btnholder{
+    display: flex;
+    justify-content: space-between;
+
+
+}
+.inputstyle{
+    margin-top: 40px;
+    width: 100%;
+    height: 50px;
+    
+    border: 1px solid #b6b6b6;
+}
+input::placeholder {
+    color: #b6b6b6;
+    font-size: 25px;
+    opacity: 0.5;
+    text-align: center;
+  }
+  .buttonstyle{
+    width: 180px;
+    height: 70px;
+    border-radius: 10px;
+    color: white;
+    font-size: 22px;
+    background-color: #006A50;
+    border: none;
+    margin-top: 25px;
+  }
+/* .donate{display: flex;
+    flex-direction: column;
+justify-content: center;
+align-items: center;} */
