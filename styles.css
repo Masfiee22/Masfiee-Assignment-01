@@ -1,0 +1,160 @@
+body{
+    background-color: #F5F5F5;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 50px;
+    font-family: Fira Sans;
+}
+.navigation{
+    display: flex;
+    justify-content: space-between;
+}
+.navButton{
+    width: 116px;
+    height: 52px;
+    padding: 10px;
+    font-size: 18px;
+    background-color: 006A50;
+    border-radius: 8px;
+    border: 1px solid black;
+
+}
+.navTitle{
+    font-size: 32px;
+}
+.slider{
+ margin-top: 40px;
+    display: flex;
+    justify-content: center;
+    padding: 60px 20px;
+    background-color: #C6E4D6;
+    border-radius: 20px;
+}
+.bannerimg{
+    width: 474px;
+    height: 400px;
+}
+.sliderleft h1{
+    font-size: 56px;
+    
+}
+.sliderleft h2{
+    font-size: 24px;
+    color:#006A50;
+    
+}
+.btn-primary{
+    width: 270px;
+    height: 56px;
+    font-size: 18px;
+    background-color: #006A50;
+    border: none;
+    color: white;
+    border-radius: 10px;
+}
+.singlecard{
+    background-color: white;
+    width: 302px;
+    height: 244px;
+    border-radius: 10px;
+    padding: 15px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: start;
+    /* margin-right: 30px; */
+
+}
+.carddivmain{
+    display: flex;
+    justify-content: space-between;
+}
+.futurediv{
+    margin-top: 70px;
+}
+.cardmainsection{
+    margin-top: 70px;
+}
+.secondCard{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: start;
+    width: 410px;
+    height: 325px;
+    background-color: #d5e1f5;
+    padding: 30px;
+    border-radius: 15px;
+}
+.secondCard2{
+    flex-direction: column;
+    justify-content: center;
+    display: flex;
+    align-items: start;
+    width: 410px;
+    height: 325px;
+    background-color: #c6e4d6;
+    padding: 30px;
+    border-radius: 15px;
+}
+.secondCard3{
+    flex-direction: column;
+    justify-content: center;
+    display: flex;
+    align-items: start;
+    width: 410px;
+    height: 325px;
+    background-color: #f7ebcf;
+    padding: 30px;
+    border-radius: 15px;
+}
+.cardholder{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 40px;
+
+}
+.btn1{
+    background-color: #5490F5;
+    width: 122px;
+    height: 42px;
+    border: none;
+    border-radius: 10px;
+    color: white;
+    margin-top: 20px;
+}
+.btn2{
+    background-color: #09A15C;
+    width: 122px;
+    height: 42px;
+    border: none;
+    color: white;
+    border-radius: 10px;
+    margin-top: 20px;
+}
+.btn3{
+    background-color: #FFC239;
+    width: 122px;
+    height: 42px;
+   
+    margin-top: 20px;
+}
+.quotessec{
+    background-image: url("./assets/quote-bg.png") ;
+    background-repeat: no-repeat;
+
+
+    
+   
+    
+}
+.quoteshead{
+    margin-top: 32px;
+    padding: 20px;
+    border: none;
+    border-radius: 10px;
+    background-color: white;
+}
+.quotesdata{
+    padding-top: 30px;
+}
