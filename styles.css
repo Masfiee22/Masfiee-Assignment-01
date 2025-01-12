@@ -289,6 +289,11 @@ input::placeholder {
     border-top-right-radius: 15px;
     border-bottom-right-radius: 15px;
 }
+.Subscribebtn:hover{
+    background-color: #63997f;
+    color: #006a50;
+    border-radius: 50px;
+}
 .bdtext{
     color:#65746d
 }
